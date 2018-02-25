@@ -1,0 +1,15 @@
+{
+  "name": "vuid",
+  "version": "1.0.0",
+  "description": "very unique identifiers",
+  "main": "index.js",
+  "keywords": [
+    "uuid",
+    "crypto",
+    "unique",
+    "identifier",
+    "browser"
+  ],
+  "author": "@lukejacksonn",
+  "license": "MIT"
+}
